@@ -1,0 +1,12 @@
+.container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left, .right{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
